@@ -5,7 +5,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[![127-0-0-1-5501.png](https://i.postimg.cc/Y07S7S5G/127-0-0-1-5501.png)](https://postimg.cc/tZrbt9Cp)
 
 
 ### Links
