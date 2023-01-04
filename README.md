@@ -11,6 +11,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [https://github.com/OlgaBorodchak/Testimonials-Grid-Section.git](https://your-solution-url.com)
+- Liva Site URL: [https://olgaborodchak.github.io/Testimonials-Grid-Section/](https://your-solution-url.com)
 
 
 ### Built with
